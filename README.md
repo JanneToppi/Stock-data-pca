@@ -1,13 +1,12 @@
-# Stock Market PCA Analysis
+# Wine Quality Analysis with PCA and LDA
 
-This project explores stock price movement patterns across sectors using Principal Component Analysis (PCA).
-
+This project explores if wine quality can be predicted with PCA and LDA
 ## Research Question
-Can PCA uncover the main factors influencing stock price variations across different sectors?
+What are the main physicochemical factors that influence wine quality
 
 ## Project Structure
 - `MSA project.Rproj`: RStudio project file
-- `scripts/`: (to be added) R scripts for data processing and PCA
+- `scripts/`: (to be added) R scripts for data processing, PCA and LDA
 - `plots/`: (to be added) figures used in the report
 - `report.pdf`: (to be added) the final course report
 
